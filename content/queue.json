@@ -23,8 +23,8 @@
       "combo-5.jpg"
     ],
     "caption": "Your resume, LinkedIn and Naukri profile, all done right in one combo. Swipe to see what you get 👉\n\n✅ ATS-Friendly Resume\n✅ LinkedIn Profile Optimization\n✅ Naukri Profile Optimization\n\n🔥 3 services, 1 combo: just ₹1,699\n📩 DM \"RESUME\" or WhatsApp 6383714692\n\n#ResumeHub #ATSResume #LinkedInProfile #NaukriProfile #ProfileMakeover",
-    "status": "pending",
-    "attempts": 2,
+    "status": "failed",
+    "attempts": 3,
     "last_error": "IG_ACCESS_TOKEN is not set"
   },
   {

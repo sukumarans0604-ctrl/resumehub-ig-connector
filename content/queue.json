@@ -39,8 +39,8 @@
       "mistakes-5.jpg"
     ],
     "caption": "Freshers: are these 3 mistakes costing you interview calls? Save this post and fix them today. 📌\n\nWant us to fix it for you? DM \"RESUME\".\n\n#ResumeHub #FresherJobs #ResumeTips #JobSearchIndia #CareerGrowth",
-    "status": "pending",
-    "attempts": 2,
+    "status": "failed",
+    "attempts": 3,
     "last_error": "IG_ACCESS_TOKEN is not set"
   },
   {

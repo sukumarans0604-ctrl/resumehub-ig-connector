@@ -78,7 +78,9 @@
       "linkedin-4.jpg"
     ],
     "caption": "Your LinkedIn headline shows up in every recruiter search. Use this formula. ✍️\n\nComment \"LINKEDIN\" and we'll suggest one for you.\n\n#ResumeHub #ATSResume #LinkedInProfile #NaukriProfile #ProfileMakeover",
-    "status": "pending"
+    "status": "pending",
+    "attempts": 1,
+    "last_error": "IG_ACCESS_TOKEN is not set"
   },
   {
     "id": "p07",

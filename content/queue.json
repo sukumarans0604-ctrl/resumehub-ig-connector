@@ -96,8 +96,8 @@
       "naukri-7.jpg"
     ],
     "caption": "Recruiters check these 5 Naukri fields first. Is yours updated? 🔎 Save and share with a friend who's job hunting.\n\n#ResumeHub #ResumeWriting #JobSearch #TamilNaduJobs #ChennaiJobs",
-    "status": "pending",
-    "attempts": 2,
+    "status": "failed",
+    "attempts": 3,
     "last_error": "IG_ACCESS_TOKEN is not set"
   },
   {

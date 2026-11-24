@@ -132,8 +132,8 @@
       "reel-story-style-ad.mp4"
     ],
     "caption": "Great skills but no interview calls? Your profile could be the missing piece. 🧩\n\n✅ ATS-Friendly Resume\n✅ LinkedIn Profile Optimization\n✅ Naukri Profile Optimization\n\n🔥 3 services, 1 combo: just ₹1,699\n📩 DM \"RESUME\" or WhatsApp 6383714692\n\n#ResumeHub #FresherJobs #ResumeTips #JobSearchIndia #CareerGrowth",
-    "status": "pending",
-    "attempts": 2,
+    "status": "failed",
+    "attempts": 3,
     "last_error": "IG_ACCESS_TOKEN is not set"
   },
   {

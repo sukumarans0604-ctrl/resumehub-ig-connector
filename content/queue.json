@@ -146,7 +146,9 @@
       "ats-3.jpg"
     ],
     "caption": "Is your resume ATS-friendly? Run these 5 quick checks before you apply. ✅\n\nComment \"ATS\" for a free quick review.\n\n#ResumeHub #FresherJobs #ResumeTips #JobSearchIndia #CareerGrowth",
-    "status": "pending"
+    "status": "pending",
+    "attempts": 1,
+    "last_error": "IG_ACCESS_TOKEN is not set"
   },
   {
     "id": "p12",
